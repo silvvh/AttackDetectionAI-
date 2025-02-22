@@ -398,10 +398,5 @@ plt.title('Matriz de Confusão com Valores')
 plt.xlabel('Classes Preditas')
 plt.ylabel('Classes Reais')
 plt.show()
-```
-
-
-    
-![png](output_6_0.png)
-    
+```    
 
